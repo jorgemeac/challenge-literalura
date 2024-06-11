@@ -1,9 +1,7 @@
 package br.com.biblioler.app.start.menu;
 
-import br.com.biblioler.app.service.*;
 import br.com.biblioler.app.util.GerenciamentoEntrada;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class MenuAutores extends GerenciamentoEntrada {
@@ -39,5 +37,4 @@ public class MenuAutores extends GerenciamentoEntrada {
             }
         } while (minhaOpcao != 5);
     }
-
 }

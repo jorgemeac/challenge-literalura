@@ -87,9 +87,6 @@ public class GerenciamentoEntrada {
 
     }
 
-
-
-
     //METODOS UTILIZADOS NO MENU LIVROS
     //Método para busca por Id da classe MenuLivro - switch-case: 1
     protected void buscarPorId() throws Exception {
@@ -124,7 +121,6 @@ public class GerenciamentoEntrada {
         System.out.println("Você optou por retornar ao Menu Inicial.");
         MenuPrincipal menuPrincipal = new MenuPrincipal();
         menuPrincipal.menuPrincipal();
-
     }
 
     //Método defaultMetodo, (classe MenuLivro - switch-case > 5), (classe MenuPrincipal - switch-case > 6)
@@ -161,5 +157,4 @@ public class GerenciamentoEntrada {
         BuscaAutorData buscaAutorAntes = new BuscaAutorData();
         buscaAutorAntes.buscarAutoresAntes();
     }
-
 }

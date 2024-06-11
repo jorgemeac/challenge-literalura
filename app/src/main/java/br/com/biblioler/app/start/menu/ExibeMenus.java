@@ -7,8 +7,7 @@ public  class ExibeMenus {
                 Menu Principal
                 1 - BUSCAR LIVROS
                 2 - BUSCAR AUTORES
-                3 - EXIBIR ESTATÍSTICAS
-                4 - SAIR
+                3 - SAIR
                 """);
     }
 
@@ -39,18 +38,6 @@ public  class ExibeMenus {
                 """);
     }
 
-    //Método para exibir as opções de Estatísticas
-    public void exibirMenuEstatistica() {
-        System.out.println("""
-                Menu de Estatística
-                1 - QUANTIDADE DE LIVROS POR IDIOMA
-                2 - TOP 10 AUTORES MAIS BAIXADOS
-                3 - TOP 10 LIVROS MAIS BAIXADOS
-                4 - TOP 10 AUTORES COM MAIS OBRAS
-                5 - RETORNAR
-                """);
-    }
-
     //Método para listar livros por idioma
     public void exibirMenuIdiomas() {
         System.out.println("""
@@ -64,5 +51,4 @@ public  class ExibeMenus {
         0 - RETORNAR
                 """);
     }
-
 }

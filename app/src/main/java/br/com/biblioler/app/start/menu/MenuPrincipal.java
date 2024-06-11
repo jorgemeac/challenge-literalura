@@ -16,7 +16,7 @@ public class MenuPrincipal extends GerenciamentoEntrada {
 
             System.out.print("Escolha uma opção: ");
             minhaOpcao = receberValorInteiro(scanner);
-                //conforme for resolvendo os problemas, irei implementanto os metodos dos case na classe GerenciamentoEntrada
+            //conforme for resolvendo os problemas, irei implementanto os metodos dos case na classe GerenciamentoEntrada
             switch (minhaOpcao) {
                 case 1: //ok
                     exibirMenuLivros();
@@ -24,18 +24,12 @@ public class MenuPrincipal extends GerenciamentoEntrada {
                 case 2: //ok
                     exibirMenuAutores();
                     break;
-                case 3: //estatísticas
-                    MenuIdiomas menuIdiomas = new MenuIdiomas();
-                    menuIdiomas.menuIdiomas();
-                    break;
-                case 4: //ok
+                case 3: //ok
                     sair();
                     break;
                 default: //ok
                     defaultMetodo();
             }
-        } while (minhaOpcao != 4);
-       // scanner.close(); // ESTE CÓDIGO ESTAVA APRESETANDO ERRO DE SCANNER
-        // Nos submenus não, pois dar erro.
+        } while (minhaOpcao != 3);
     }
 }

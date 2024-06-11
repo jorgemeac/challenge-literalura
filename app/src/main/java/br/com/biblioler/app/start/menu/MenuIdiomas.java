@@ -14,16 +14,6 @@ public class MenuIdiomas extends GerenciamentoEntrada {
         do {
             System.out.print("Escolha uma opção de busca em idiomas: ");
             minhaOpcao = receberValorInteiro(scanner);
-//            System.out.println("""
-//        Menu Listar livros por Idiomas
-//        AF - AFRICANO   |    FR - FRANCÊS
-//        DE - ALEMÃO     |    IT - ITALIANO
-//        EL - GREGO      |    LA - LATIM
-//        EN - INGLÊS     |    PT - PORTUGUÊS
-//        ES - ESPANHOL   |    RU - RUSSO
-//
-//        RETORNAR
-//                """)
 
             switch (minhaOpcao) {
                 case 1:

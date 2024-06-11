@@ -34,8 +34,8 @@ public class BuscaLivroTitulo extends GerenciamentoEntrada {
                     System.out.println("Título: " + livro.titulo());
                     String autores = livro.autores().stream()
                             .findFirst()
-                                    .map(Pessoa::nome)
-                                    .orElse("Autor(a) não encontrado(a).");
+                            .map(Pessoa::nome)
+                            .orElse("Autor(a) não encontrado(a).");
                     System.out.println("Autor(a): " + autores);
                     System.out.println("Downloads: " + livro.downloads() + "\n");
                 }
