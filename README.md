@@ -1,4 +1,4 @@
-![Capa de apresentação do projeto bibliole.](https://github.com/jorgemeac/challenge-literalura/assets/157545299/322cc9bf-a5e0-4727-8f4c-34c134beb370)
+![Capa de apresentação do projeto bibliole.](https://github.com/jorgemeac/challenge-literalura/blob/main/bibliole.png)
 # <h1 align="center"> Projeto Bibliolê - LitarAlura </h1>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
