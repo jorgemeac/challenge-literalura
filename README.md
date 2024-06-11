@@ -7,36 +7,45 @@
 
 ## Índice
 
-* [Imagem de capa e Título](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
+* [Status do Projeto](#status-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoa Desenvolvedora do Projeto](#pessoas-desenvolvedoras)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Pessoa Desenvolvedora do Projeto](#pessoa-desenvolvedora-do-projeto)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
 ## Descrição do projeto
 
+O Projeto Bibliolê é uma aplicação desenvolvida para facilitar a busca e o acesso a livros. O projeto é uma iniciativa do curso LitarAlura e visa oferecer uma interface intuitiva e funcional para pesquisa de livros, autores e idiomas, além de fornecer estatísticas detalhadas sobre as buscas realizadas.
+
+## Status do Projeto
+
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
 
+## Funcionalidades e Demonstração da Aplicação
 
-## Funcionalidades do projeto e domonstração da aplicação
-- `Menu principal para buscas`: descrição da funcionalidade 1
-- `Menu de busca para livros`: descrição da funcionalidade 2
-- - `Menu de busca por idioma`: descrição da funcionalidade 3
-- `Menu de busca para autores`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Menu de Estatísticas`: descrição da funcionalidade 3
+- `Menu Principal`: Interface inicial para acessar todas as funcionalidades disponíveis no sistema.
+- `Menu de Busca para Livros`: Permite a pesquisa de livros por título, autor ou categoria.
+- `Menu de Busca por Idioma`: Facilita a localização de livros disponíveis em diferentes idiomas.
+- `Menu de Busca para Autores`: Permite a pesquisa de livros por autores específicos.
+- `Menu de Estatísticas`: (Em breve!)
 
-## Acesso ao projeto
+## Acesso ao Projeto
 
-## Tecnologias utilizadas
+Você pode acessar o projeto diretamente no GitHub através do [link do repositório](https://github.com/jorgemeac/challenge-literalura).
 
+## Tecnologias Utilizadas
+
+- **Linguagem de Programação:** Java
+- **Frameworks:** Spring Boot, Hibernate
+- **Banco de Dados:** MySQL
+- **Frontend:** HTML, CSS, JavaScript
+- **Ferramentas de Build:** Maven
+- **IDE:** IntelliJ IDEA
 
 ## Pessoa Desenvolvedora do Projeto
 
@@ -44,14 +53,14 @@
 |:----------------------------------------------------------------------------------------------------------------------------------------------------:|
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgemeac)
 
-## Licenca
+## Licença
+
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
 
 ---
 
-Feito com ❤️ por [jorgemeac]
-
 ## Status
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgemeac&theme=transparent&bg_color=0ff&border_color=00f&show_icons=true&icon_color=000&title_color=000&text_color=00f)
 
 ## Linguagens Mais Utilizadas
@@ -64,10 +73,10 @@ Feito com ❤️ por [jorgemeac]
 
 Mais um importante passo nesta grande Jornada... 🚀
 
-
-## Documentação
-
-[Javadoc](https://docs.oracle.com/en/java/)
-
-
 ## Conclusão
+
+O Projeto Bibliolê representa um significativo avanço na forma de pesquisar e acessar livros, integrando diversas funcionalidades que tornam a experiência do usuário mais completa e eficiente. Continuarei a desenvolver e aprimorar esta aplicação, buscando sempre oferecer uma ferramenta útil e de qualidade. Agradeço pelo interesse no projeto e estou aberto a feedbacks e contribuições!
+
+---
+
+Feito com ❤️ por [jorgemeac](https://github.com/jorgemeac)
